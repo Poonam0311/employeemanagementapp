@@ -2,7 +2,7 @@
 
 1. Clone this repo
 2. Follow the steps given here - https://github.com/Poonam0311/employeemanagement/blob/master/README.md to make the APIs running.
-3. Run the command - flutter run -d web --web-port 8080
+3.(Make sure you have Flutter installed)Run the command - flutter run -d web --web-port 8080
 4. Open - http://localhost:8080
 
 Voila! Your EMS app is running!
