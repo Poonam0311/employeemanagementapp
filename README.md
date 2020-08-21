@@ -7,6 +7,6 @@
 
 Voila! Your EMS app is running!
 
-PS: I haven't tested it on mobile device due to some reasons. But
+PS: I haven't tested it on mobile device due to some reasons. But don't worry you always have browser.
 
 Please refer my other project https://github.com/Poonam0311/employeemanagement that serves the APIS for this app.
